@@ -1,0 +1,59 @@
+
+---Downloaded files---
+The import files for: Suxnix were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = D:\wamp64\www\wordpress/wp-content/themes/suxnix/sample-data/contents-demo.xml
+Widget file = D:\wamp64\www\wordpress/wp-content/themes/suxnix/sample-data/widget-settings.json
+Customizer file = D:\wamp64\www\wordpress/wp-content/themes/suxnix/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search Objects - Imported
+Suxnix Sidebar Posts Image - Popular Feeds - Imported
+Categories - Categories - Imported
+Tag Cloud - Popular Tags - Imported
+Image - No Title - Imported
+
+Footer 1 : 
+
+Suxnix Info - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - About Us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Support - Imported
+
+Footer 4 : 
+
+Custom HTML - CONTACT US - Imported
+
+Product Sidebar : 
+
+Filter Products by Price - Filter by Price - Imported
+Product Categories - Product categories - Imported
+Products list - LATEST PRODUCTS - Imported
+Product Tag Cloud - Product tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
